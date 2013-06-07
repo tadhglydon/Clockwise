@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clockwise", "Clockwise\Clockwise\Clockwise.csproj", "{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockwiseContent", "Clockwise\ClockwiseContent\ClockwiseContent.contentproj", "{822E0ECA-D815-480C-A943-06E83B4AAB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateManagement", "GameStateManagement\GameStateManagement.csproj", "{FFF23328-34E9-4312-97AF-E2E2F9F7955D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{C8D31A75-9B9D-4EC0-A0C6-D79E8D3477E8}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{822E0ECA-D815-480C-A943-06E83B4AAB9C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{822E0ECA-D815-480C-A943-06E83B4AAB9C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{FFF23328-34E9-4312-97AF-E2E2F9F7955D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{FFF23328-34E9-4312-97AF-E2E2F9F7955D}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{FFF23328-34E9-4312-97AF-E2E2F9F7955D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{FFF23328-34E9-4312-97AF-E2E2F9F7955D}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
